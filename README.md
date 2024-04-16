@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm @JennaSampson 👋
+
+- I'm interested in learning about the secrets of the universe, how mankind studies the cosmos and how galactic interactions can be modelled 🔭
+- I'm currently working on obtaining my BSc in Astronomy and Astrophysics
+- My favourite hobbies include: stargazing, astrophotography, reading, drawing, building *Lego,* scrapbooking, baking
+- **FUN FACT ✨**: I'm a HUGE *Star Wars* fan
 
 <!--
 **JennaSampson/JennaSampson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
